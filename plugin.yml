@@ -1,0 +1,7 @@
+name: GamePoker
+main: com.killing3k.gamepoker.GamePoker
+version: 0.0.1Alpha
+commands:
+  poker:
+    description: poker game
+    usage: /poker
